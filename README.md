@@ -17,11 +17,11 @@ A neatly organized collection of all vanilla items in gm.constants.
 
 ### Functions
 
-`Item.get_item_names(rarity)`  
+`Items.get_item_names(rarity)`  
 Returns a table containing all item names of a rarity, or all items if none is specified.
 
-`Item.get_item_constants(rarity)`  
+`Items.get_item_constants(rarity)`  
 Returns a table containing all item gm.constants of a rarity, or all items if none is specified.
 
-`Item.find_item(name_or_const)`  
+`Items.find_item(name_or_const)`  
 Returns the table index of the item and its data (two return values), or -1 and nil if the item doesn't exist.
