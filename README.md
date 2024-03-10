@@ -1,5 +1,8 @@
 # Items Table
-A neatly organized collection of all vanilla items in gm.constants.
+A neatly organized collection of all vanilla items in gm.constants.  
+(Scroll down for usage notes)
+
+![items](https://github.com/Klehrik/RoRR-ItemsTable/assets/78520710/219d27b8-324d-4c66-b3a6-009819404e4d)
 
 ---
 
